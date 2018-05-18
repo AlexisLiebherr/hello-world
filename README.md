@@ -1,3 +1,2 @@
 # hello-world
-To learn
-My first commit will be these lines.
+Guide pour débuter : https://guides.github.com/activities/hello-world/
