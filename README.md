@@ -15,3 +15,5 @@ Branching :
 - git log --branches --not --remotes (lister les commits non poussés dans la branche)
 - git push origin test (pousser les commits dans la branche, puis merger depuis le site de Github)
 - git pull origin master (mettre à jour master sur le PC local suite au merge sur le site de Github)
+
+#Commande pour convertir un notebook en page html : jupyter nbconvert --to html PCE_A380.ipynb
